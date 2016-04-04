@@ -1,0 +1,19 @@
+div{
+	display: inline-block;
+	height: 250px;
+	width: 230px;
+	border: 2px solid orange;
+	padding: 10px 5px 10px 10px;
+}
+.uno{
+	display: block;
+	margin-top: 10px;
+}
+.tres{
+	display: block;
+}
+.cuatro{
+	display: block;
+	padding: 0px;
+}
+/* Agrega aqui tu CSS */
